@@ -30,7 +30,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",          # local dev
-        "https://your-app.vercel.app",    # replace with your Vercel URL after deploy
+        "https://unsung11-phishguardai.hf.space",,    # replace with your Vercel URL after deploy
     ],
     allow_credentials=True,
     allow_methods=["*"],
