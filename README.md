@@ -6,9 +6,7 @@
 
 ## 🔗 Live Demo
 
-**Frontend:** [https://phisguiardai.vercel.app](https://phis-guiard-ai.vercel.app/)  
-**Backend API:** [https://unsung11-phishguardai.hf.space](https://unsung11-phishguardai.hf.space)  
-**API Docs:** [https://unsung11-phishguardai.hf.space/docs](https://unsung11-phishguardai.hf.space/docs)
+**Live:** [https://phisguiardai.vercel.app](https://phis-guiard-ai.vercel.app/)  
 
 ---
 
