@@ -170,7 +170,7 @@ npm run dev
 ## 👤 Author
 
 **Nimon** — Cybersecurity & ML Researcher  
-Built as a portfolio project demonstrating full-stack AI application development.
+Built as a  project demonstrating full-stack AI application development.
 
 ---
 
