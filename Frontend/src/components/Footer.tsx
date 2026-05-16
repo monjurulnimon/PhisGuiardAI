@@ -49,15 +49,15 @@ export default function Footer() {
         </span>
       </div>
 
-      <div
-        style={{
-          color: "var(--text-muted)",
-          fontSize: "12px",
-          fontFamily: "var(--font-mono)",
-        }}
-      >
-        built for research & portfolio purposes · 2025
-      </div>
+     <div
+  style={{
+    color: "var(--text-muted)",
+    fontSize: "12px",
+    fontFamily: "var(--font-mono)",
+  }}
+>
+  © 2026 PhishGuard AI · Built by Monjurul Nimon
+</div>
 
       <div
         style={{
